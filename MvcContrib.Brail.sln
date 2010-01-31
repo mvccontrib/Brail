@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.BrailViewEngine"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.BrailViewEngine.Tests", "src\MvcContrib.BrailViewEngine.Tests\MvcContrib.BrailViewEngine.Tests.csproj", "{10E03EE3-A56C-41D3-86A3-D243075F3CD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcContrib.Samples.BrailViewEngine", "src\Sample\MvcContrib.Samples.BrailViewEngine.csproj", "{500B55E6-FD6D-4B8D-9528-00467280DB63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{10E03EE3-A56C-41D3-86A3-D243075F3CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10E03EE3-A56C-41D3-86A3-D243075F3CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10E03EE3-A56C-41D3-86A3-D243075F3CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500B55E6-FD6D-4B8D-9528-00467280DB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500B55E6-FD6D-4B8D-9528-00467280DB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500B55E6-FD6D-4B8D-9528-00467280DB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500B55E6-FD6D-4B8D-9528-00467280DB63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
